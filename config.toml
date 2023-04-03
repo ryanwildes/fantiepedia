@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Fantiepedia"
+theme = "hugo-book"
+
+enableRobotsTXT = true
+[sitemap]
+  changefreq = ""
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[params]
+
+  BookTheme = "dark"
+
+  BookSection = "*"
