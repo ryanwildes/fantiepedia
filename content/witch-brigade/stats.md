@@ -1,9 +1,4 @@
----
-title: Puppet Soldiers
-weight: 1
----
-
-# Puppet Soldiers
+# Stats
 
 ## Base Stats
 

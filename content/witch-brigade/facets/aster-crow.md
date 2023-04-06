@@ -27,7 +27,7 @@ weight: 1
 
 | Weapon   | Proficiency |
 | -------- | ----------- |
-| [Sword](/items/weapons/swords)    | A+          |
+| [Sword]({{< relref "/items/swords" >}})    | A+          |
 | Lamp     | B+          |
 | Lance    | S+          |
 | Hammer   | B+          |

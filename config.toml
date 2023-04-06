@@ -1,9 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "https://ryanwildes.github.io/fantiepedia"
 languageCode = "en-us"
 title = "Fantiepedia"
 theme = "hugo-book"
 
+enableGitInfo = true
+
 enableRobotsTXT = true
+
 [sitemap]
   changefreq = ""
   filename = "sitemap.xml"
@@ -14,3 +17,8 @@ enableRobotsTXT = true
   BookTheme = "dark"
 
   BookSection = "*"
+
+  BookRepo = "https://github.com/ryanwildes/fantiepedia"
+  BookCommitPath = "commit"
+
+  BookSearch = true

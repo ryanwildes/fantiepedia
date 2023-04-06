@@ -1,5 +1,5 @@
 ---
-title: "Items"
+title: "Witch Brigade"
 bookCollapseSection: true
-weight: 2
+weight: 1
 ---
