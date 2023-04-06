@@ -1,10 +1,10 @@
 # Luck
 
-Each of your puppets has a luck statistic (abbreviated LUC). Unlike other stats, luck doesn't increase on levels. Instead, luck is increased through equipment or skills.
+Each of your puppets has a Luck stat (abbreviated LUC). Unlike other stats, luck doesn't increase on level up, and maxes out at 99. Instead, luck is increased by equipment or skills.
 
-A puppet is given a random amount of luck on creation based on their name. This appears to be based on numerology. The name can be changed later via Witch Petition.
+A puppet is created with a random amount of luck between 0 and 99 based on their name. This appears to be based on numerology. The name can be changed later via Witch Petition.
 
-On each soul transfer, the puppet's luck will go down an amount based on their lucky number. If it goes below zero, it *wraps around* to 99 and down.
+On soul transfer, the puppet's luck will go down an amount based on their lucky number. If it goes below zero, it *wraps around* to 99 and down.
 
 When you are over the mana limit, the luck of your entire brigade is reduced to Despair Level.
 
