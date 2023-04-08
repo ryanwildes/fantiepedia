@@ -17,7 +17,7 @@ At the start of the game, you can select from the following facets:
  - Wonder Corsair
  - Rapid Venator
 
-Others are unlocked as you progress throughout the game.
+Others are unlocked as you progress through the story.
 
 ## Stat Growth
 

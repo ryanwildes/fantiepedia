@@ -12,6 +12,17 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
   priority = 0.5
 
+[menu]
+[[menu.after]]
+  name = "GitHub"
+  url = "https://github.com/ryanwildes/fantiepedia"
+  weight = 99
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
 
   BookTheme = "dark"

@@ -10,6 +10,10 @@ weight: 1
 >
 > They excel in battle, balancing offense and defense.
 
+## Etymology
+
+*Aster* is Latin for star.[^1]
+
 ## Stats
 
 | Stats | Growth | Aptitudes |
@@ -53,6 +57,26 @@ weight: 1
 
 ## Skills
 
-| Name         | Cost | Effect     |
-| ------------ | ---- | ---------- |
-| Stubbornness | 50   | \[Innate\] |
+Skills marked with * are innate to the facet.
+
+### Star Burst*
+
+| Cost | Requirements | Effect |
+| :--: | ------------ | ------ |
+| 50   | In Battle | Adds +75% to Attack when sole attacker in a brigade.<br>Does not include Support and those unable to fight as attackers. |
+
+### Stubbornness*
+
+| Cost | Requirements | Effect |
+| :--: | ------------ | ------ |
+| 50   | In Battle 1 | Remain at 1 HP when you receive death damage. |
+
+### War Spire
+
+| Cost | Requirements | Effect |
+| :--: | ------------ | ------ |
+| 25   | Equip Lance/Atk. | Critical value +50. |
+
+## References
+
+[^1]: https://en.wiktionary.org/wiki/aster
