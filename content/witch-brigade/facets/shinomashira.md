@@ -10,6 +10,8 @@ weight: 3
 >
 > They demonstrate more power in group battles.
 
+## Etymology
+
 ## Stats
 
 | Stats | Growth | Aptitudes |
