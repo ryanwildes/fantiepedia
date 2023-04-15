@@ -27,6 +27,9 @@ enableRobotsTXT = true
 
 [params]
 
+  description = "An RPG shrine dedicated to the video game Labyrinth of Galleria: The Moon Society."
+  images = ["lantern.jpg"]
+
   BookTheme = "dark"
 
   BookSection = "*"

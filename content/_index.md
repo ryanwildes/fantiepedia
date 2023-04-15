@@ -4,7 +4,9 @@ title: Home
 
 # Welcome to Fantiepedia!
 
-This is a work-in-progress site dedicated to the game *Labyrinth of Galleria: The Moon Society* by NIS.
+An RPG shrine dedicated to the game *Labyrinth of Galleria: The Moon Society* by NIS.
+
+This site is a work-in-progress! If you are interested in contributing, head to the [GitHub repository](https://github.com/ryanwildes/fantiepedia).
 
 {{< hint danger >}}**Spoilers ahead!**
 
