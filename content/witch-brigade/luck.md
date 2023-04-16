@@ -6,7 +6,7 @@ A puppet is created with a random amount of luck between 0 and 99 based on their
 
 On soul transfer, the puppet's luck will go down an amount based on their lucky number. If it goes below zero, it *wraps around* to 99 and down.
 
-When you are over the mana limit, the luck of your entire brigade is reduced to Despair Level.
+When you are over the mana limit, the luck of your entire brigade is reduced to Despair Level. It has also been suggested that your karma can affect luck and luck transferring.
 
 Thank you to Dahvid123, the author of the thread linked below, for their research on this subject.[^1]
 

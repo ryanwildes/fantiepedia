@@ -4,7 +4,11 @@
 
 ### HP
 
+Self-explanatory. When it hits 0, the puppet dies.
+
 ### DP
+
+Donum Points. While each puppet has their own DP stat, they are combined into a single pool for the coven. These are consumed for using Donum.
 
 ### STR
 
@@ -28,7 +32,11 @@ Dexterity. Affects HIT and critical chance.
 
 ### CHM
 
-Charm.
+Charm. High charm makes enemies attack you less.
+
+### LUC
+
+See [Luck]({{< relref "/witch-brigade/luck" >}}).
 
 ## Derived Stats
 
@@ -42,8 +50,8 @@ Defense.
 
 ### AVD
 
-Avoid.
+Chance to avoid attacks.
 
 ### HIT
 
-Hit.
+Hit chance.
