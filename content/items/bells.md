@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # Bells
 
 Bells are a unique weapon associated with the Theatrical-class facets. They can be used from both the vanguard and rearguard.

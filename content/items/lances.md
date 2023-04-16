@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # Lances
 
 Lances are a versatile weapon for both the vanguard and rearguard. They can be either one or two-handed, making them good to pair with another weapon (like katars for Peer Chariots) or shields.

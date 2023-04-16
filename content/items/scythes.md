@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # Scythes
 
 Scythes are a unique Slash element weapon that can attack entire groups of enemies.

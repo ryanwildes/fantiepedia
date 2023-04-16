@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # Crossbows
 
 Crossbows are fast, rearguard weapons that take both arm slots.

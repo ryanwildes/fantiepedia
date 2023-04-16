@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # Hammers
 
 Hammers are a slow but powerful vanguard weapon.

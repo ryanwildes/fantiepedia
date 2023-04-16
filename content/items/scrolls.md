@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # Scrolls
 
 Scrolls are a hand-to-hand weapon unlocked upon reaching the Alstella portion of the game.

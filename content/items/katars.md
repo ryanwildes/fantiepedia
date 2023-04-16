@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # Katars
 
 Katars are a shield-like weapon strongly associated with the Peer-class facets.

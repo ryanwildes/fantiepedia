@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # Cannons
 
 Cannons are a powerful rearguard weapon unlocked upon reaching the Alstella portion of the game.

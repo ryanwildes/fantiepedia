@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # Lamps
 
 Lamps are slow weapons for Donum-oriented facets. They are exclusively for the rearguard, and are commonly two-handed.

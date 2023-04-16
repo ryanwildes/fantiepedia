@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Consumables
 
 ## Healing items
